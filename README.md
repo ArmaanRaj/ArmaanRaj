@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Alzheimer's disease detection using finetuned SOTA neural networks**
 
-- 🌱 I’m currently learning **SOTA pretrained neural networks, Transformers,Diffusion LLMs, Multimodal biometric recognition, AWS**
+- 🌱 I’m currently learning **SOTA pretrained neural networks, Transformers,Diffusion LLMs, Alzheimer's disease detection, AWS**
 
 - 👯 I’m looking to collaborate on [Fast Feedback](https://github.com/ArmaanRaj/Fast_Feedback_instance_a)
 
