@@ -6,7 +6,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400" height="250" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armaanraj&label=Profile%20views&color=0e75b6&style=flat" alt="armaanraj" /> </p>
 
 - 🔭 I’m currently working on **Alzheimer's disease detection using finetuned SOTA neural networks**
 
