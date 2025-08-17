@@ -4,21 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armaanraj&label=Profile%20views&color=0e75b6&style=flat" alt="armaanraj" /> </p>
 
-- 🔭 I’m currently working on **Multimodal biometric recognition using finetuned SOTA neural networks**
+- 🔭 I’m currently working on **Alzheimer's disease detection using finetuned SOTA neural networks**
 
 - 🌱 I’m currently learning **SOTA pretrained neural networks, Transformers,Diffusion LLMs, Multimodal biometric recognition, AWS**
 
-- 👯 I’m looking to collaborate on **Fast Feedback**
+- 👯 I’m looking to collaborate on [Fast Feedback](https://github.com/ArmaanRaj/Fast_Feedback_instance_a)
 
-- 💬 Ask me about **Deep learning, Research**
+- 💬 Ask me about **Artificial Intelligence, Web Development, Algorithms, Research**
 
 - 📫 How to reach me **armaanraj718@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/armaan-raj-a73372268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/armaan-raj-a73372268/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/armaan_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/armaan_raj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/armaan_raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/armaan_raj/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/armaan-raj-a73372268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armaan-raj-a73372268" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/armaan_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="armaan_raj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/armaan_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="armaan_raj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
