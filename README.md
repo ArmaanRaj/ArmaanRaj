@@ -2,6 +2,10 @@
 <h3 align="left">I am a final-year Computer Engineering student at Delhi Technological University (DTU), deeply passionate about artificial intelligence, development , and problem-solving. My research interests include deep learning, pattern mining algorithms, intrusion detection systems, metaheuristic optimization, and swarm intelligence.</h3>
 <h3 align="left"> In addition to my research, I have built several full-stack web applications as hobby projects and am proficient in technologies such as Next.js, React.js, Node.js, TypeScript, and JavaScript.I also enjoy solving coding problems in my free time, with a current LeetCode rating of 1861+ (top 5%) and over 1000 problems solved across various platforms.</h3>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400" height="250" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armaanraj&label=Profile%20views&color=0e75b6&style=flat" alt="armaanraj" /> </p>
 
 - 🔭 I’m currently working on **Alzheimer's disease detection using finetuned SOTA neural networks**
@@ -76,4 +80,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armaanraj&show_icons=true&locale=en&layout=compact" alt="armaanraj" /></p>
+
